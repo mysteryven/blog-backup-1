@@ -1,0 +1,9 @@
+[submodule "themes/harbor"]
+	path = themes/harbor
+	url = https://github.com/matsuyoshi30/harbor.git
+[submodule "themes/LoveIt"]
+	path = themes/LoveIt
+	url = https://github.com/dillonzq/LoveIt.git
+[submodule "public"]
+	path = public
+	url = git@github.com:mysteryven/mysteryven.github.io.git
